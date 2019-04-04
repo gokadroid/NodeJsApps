@@ -1,4 +1,4 @@
-//const abc = require('./utils.js')
+//const abc = require('./utils.js') test
 const chalk = require('chalk')
 const yargs = require('yargs')
 const notes = require('./notes.js')
